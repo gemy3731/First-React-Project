@@ -15,7 +15,7 @@ export default function () {
                 <span className='flex items-center justify-center border w-8 h-8 border-white p-5 rounded-full'><i className='fa-brands fa-facebook'></i></span>
                 <span className='flex items-center justify-center border w-8 h-8 border-white p-5 rounded-full'><i className='fa-brands fa-twitter'></i></span>
                 <span className='flex items-center justify-center border w-8 h-8 border-white p-5 rounded-full'><i className='fa-brands fa-linkedin-in'></i></span>
-                <span className='flex items-center justify-center border w-8 h-8 border-white p-5 rounded-full'><i class="fa-solid fa-globe"></i></span>
+                <span className='flex items-center justify-center border w-8 h-8 border-white p-5 rounded-full'><i className="fa-solid fa-globe"></i></span>
             </div>
         </div>
         <div>
